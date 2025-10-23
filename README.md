@@ -25,6 +25,6 @@ This project aims to automatically play the T-Rex Runner game using a Convolutio
 
 If you wish to contribute to the project, you can open an issue or submit a pull request. Code comments should be kept clear and readable.
 
-## 📄 License
+## License
 
 This project is distributed under the MIT License — see the `LICENSE` file for details.
